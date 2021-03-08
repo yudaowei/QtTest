@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>controls/CtrRadioButton.qml</file>
+        <file>controls/CtrButton.qml</file>
+        <file>BubbleShot.qml</file>
+        <file>images/xzq.jpg</file>
+        <file>images/0_xzq.jpg</file>
+        <file>QmlTableView.qml</file>
+        <file>PictureWindow.qml</file>
+    </qresource>
+</RCC>

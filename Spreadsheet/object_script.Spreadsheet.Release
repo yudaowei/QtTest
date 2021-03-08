@@ -1,0 +1,17 @@
+INPUT(
+./release\FindDialog.o
+./release\gotocelldialog.o
+./release\main.o
+./release\mainwindow.o
+./release\SortDialog.o
+./release\spreadsheet.o
+./release\cell.o
+./release\DiretoryViewer.o
+./release\moc_FindDialog.o
+./release\moc_gotocelldialog.o
+./release\moc_mainwindow.o
+./release\moc_SortDialog.o
+./release\moc_spreadsheet.o
+./release\moc_DiretoryViewer.o
+./release\qrc_qrc.o
+);

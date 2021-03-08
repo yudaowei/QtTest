@@ -1,0 +1,10 @@
+release/main.o
+release/colormaker.o
+release/imageprocessor.o
+release/EasyTableModel.o
+release/dynamiclistmodel.o
+release/qrc_qml.o
+release/moc_colormaker.o
+release/moc_imageprocessor.o
+release/moc_EasyTableModel.o
+release/moc_dynamiclistmodel.o
